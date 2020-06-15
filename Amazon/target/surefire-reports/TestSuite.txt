@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 26.832 s <<< FAILURE! - in TestSuite
+hometest.HomePageTest1.testSearchProduct  Time elapsed: 12.128 s  <<< FAILURE!
+java.lang.AssertionError: iphone 11 is not displayed expected ["iphone 11 pr"] but found ["iphone 11 pro"]
+	at hometest.HomePageTest1.testSearchProduct(HomePageTest1.java:21)
+
